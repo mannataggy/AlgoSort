@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/sorting-visualizer/build",
+  "command": "C:\\Users\\hp\\Desktop\\MinGW\\bin\\g++.exe  @CMakeFiles/sorting-visualizer.dir/includes_CXX.rsp -g -o CMakeFiles\\sorting-visualizer.dir\\src\\main.cpp.obj -c C:\\sorting-visualizer\\src\\main.cpp",
+  "file": "C:/sorting-visualizer/src/main.cpp",
+  "output": "CMakeFiles/sorting-visualizer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/sorting-visualizer/build",
+  "command": "C:\\Users\\hp\\Desktop\\MinGW\\bin\\g++.exe  @CMakeFiles/sorting-visualizer.dir/includes_CXX.rsp -g -o CMakeFiles\\sorting-visualizer.dir\\src\\Sortable.cpp.obj -c C:\\sorting-visualizer\\src\\Sortable.cpp",
+  "file": "C:/sorting-visualizer/src/Sortable.cpp",
+  "output": "CMakeFiles/sorting-visualizer.dir/src/Sortable.cpp.obj"
+},
+{
+  "directory": "C:/sorting-visualizer/build",
+  "command": "C:\\Users\\hp\\Desktop\\MinGW\\bin\\g++.exe  @CMakeFiles/sorting-visualizer.dir/includes_CXX.rsp -g -o CMakeFiles\\sorting-visualizer.dir\\src\\SortAlgorithms.cpp.obj -c C:\\sorting-visualizer\\src\\SortAlgorithms.cpp",
+  "file": "C:/sorting-visualizer/src/SortAlgorithms.cpp",
+  "output": "CMakeFiles/sorting-visualizer.dir/src/SortAlgorithms.cpp.obj"
+},
+{
+  "directory": "C:/sorting-visualizer/build",
+  "command": "C:\\Users\\hp\\Desktop\\MinGW\\bin\\g++.exe  @CMakeFiles/sorting-visualizer.dir/includes_CXX.rsp -g -o CMakeFiles\\sorting-visualizer.dir\\src\\SortController.cpp.obj -c C:\\sorting-visualizer\\src\\SortController.cpp",
+  "file": "C:/sorting-visualizer/src/SortController.cpp",
+  "output": "CMakeFiles/sorting-visualizer.dir/src/SortController.cpp.obj"
+},
+{
+  "directory": "C:/sorting-visualizer/build",
+  "command": "C:\\Users\\hp\\Desktop\\MinGW\\bin\\g++.exe  @CMakeFiles/sorting-visualizer.dir/includes_CXX.rsp -g -o CMakeFiles\\sorting-visualizer.dir\\src\\Utils.cpp.obj -c C:\\sorting-visualizer\\src\\Utils.cpp",
+  "file": "C:/sorting-visualizer/src/Utils.cpp",
+  "output": "CMakeFiles/sorting-visualizer.dir/src/Utils.cpp.obj"
+}
+]
